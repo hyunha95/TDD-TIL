@@ -1,7 +1,5 @@
 package chap03;
 
-import jdk.vm.ci.meta.Local;
-
 import java.time.LocalDate;
 
 public class PayData {

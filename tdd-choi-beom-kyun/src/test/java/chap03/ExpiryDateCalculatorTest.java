@@ -1,6 +1,5 @@
 package chap03;
 
-import jdk.vm.ci.meta.Local;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDate;
